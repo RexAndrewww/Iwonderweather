@@ -37,6 +37,7 @@ body {
   text-align: center;
 }
 .shape {
+  z-index:-1;
   position: absolute;
   background-color: var(--transp-white-1);
   backdrop-filter: blur(1.2em);
